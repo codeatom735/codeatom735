@@ -9,11 +9,15 @@
   <!-- 动画 Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 </p>
+
 ---
 
 ## 🧩 About Me
-- 💻  喜欢探索 **Java / Vue** 技术栈   
-- 🚀  **www.codeatom.top** 个人博客网站
+- 💻  喜欢探索 **Java**  技术栈   
+- 🚀  个人博客网站: [www.codeatom.top](https://www.codeatom.top)
+
+- 🐙 GitHub: [https://github.com/codeatom735](https://github.com/codeatom735)
+- 🐙 Gitee: [https://gitee.com/codeatom/readme](https://gitee.com/codeatom/readme)
 - ✨  坚信 **“代码改变世界”**  
 
 ---
@@ -48,3 +52,10 @@
 
 ## 🌟 Fun Fact
 > 分享知识，传递价值。每一行代码都有它的故事，每一个Bug都是成长的机会。
+
+---
+<div align="center">
+  <h3>🎉 Thanks for visiting! Have a great day! 🎉</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+</div>
+
